@@ -1,0 +1,4 @@
+repository "CollabDemo"
+  path "/"
+    br "/main"
+    co "/main"
